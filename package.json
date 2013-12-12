@@ -1,0 +1,27 @@
+{
+  "name": "stash-clone-project",
+  "version": "0.0.1",
+  "description": "A nodejs command line utility that clones multiple repos under a project in Stash.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Colin Mutter <colin.mutter@gmail.com>",
+  "license": "MIT",
+  "repository" : {
+      "type" : "git",
+      "url" : "https://github.com/colinmutter/stash-clone-project.git"
+   },
+  "dependencies": {
+    "restler": "~3.0.0",
+    "inquirer": "~0.3.5",
+    "async": "~0.2.9"
+  },
+  "keywords": [
+    "stash",
+    "git",
+    "clone",
+    "projects",
+    "repos"
+  ]
+}

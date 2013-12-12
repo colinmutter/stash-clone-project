@@ -1,0 +1,6 @@
+{
+  "user": "username",
+  "host": "stash.foobar.com",
+  "https": false,
+  "ssh": null
+}
